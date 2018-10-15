@@ -1,2 +1,2 @@
-# app
-compiling a personal app soon :)
+# Apps
+compiling some personal apps soon :)
